@@ -1,0 +1,5 @@
+# MacOS extra files
+.DS_Store
+
+# Texpad auxiliary files
+.texpad*
